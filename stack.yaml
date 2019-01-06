@@ -1,0 +1,7 @@
+resolver: lts-12.0
+
+packages:
+- .
+
+extra-deps:
+- ginger-0.8.4.0
